@@ -1,11 +1,14 @@
 package pkgInteger;
 
 public class MyInteger {
+	
+	
 	private int iValue;
 
 	public MyInteger(int iValue) {
 		super();
 		this.iValue = iValue;
+		setiValue(iValue);
 	}
 
 	public int getiValue() {
