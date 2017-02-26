@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * @author samue
- *
- */
-package pkgEmpty;
